@@ -1,0 +1,10 @@
+C:\Users\ROBOSOFT\source\repos\UR10_Socket\UR10_Socket\bin\Debug\UR10_Socket.exe.config
+C:\Users\ROBOSOFT\source\repos\UR10_Socket\UR10_Socket\bin\Debug\UR10_Socket.exe
+C:\Users\ROBOSOFT\source\repos\UR10_Socket\UR10_Socket\bin\Debug\UR10_Socket.pdb
+C:\Users\ROBOSOFT\source\repos\UR10_Socket\UR10_Socket\obj\Debug\UR10_Socket.Properties.Resources.resources
+C:\Users\ROBOSOFT\source\repos\UR10_Socket\UR10_Socket\obj\Debug\UR10_Socket.csproj.GenerateResource.cache
+C:\Users\ROBOSOFT\source\repos\UR10_Socket\UR10_Socket\obj\Debug\UR10_Socket.csproj.CoreCompileInputs.cache
+C:\Users\ROBOSOFT\source\repos\UR10_Socket\UR10_Socket\obj\Debug\UR10_Socket.exe
+C:\Users\ROBOSOFT\source\repos\UR10_Socket\UR10_Socket\obj\Debug\UR10_Socket.pdb
+C:\Users\ROBOSOFT\source\repos\UR10_Socket\UR10_Socket\obj\Debug\UR10_Socket.ViewMain.resources
+C:\Users\ROBOSOFT\source\repos\UR10_Socket\UR10_Socket\obj\Debug\UR10_Socket.csprojAssemblyReference.cache
